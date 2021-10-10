@@ -4,7 +4,9 @@ One of the things that has always seemed needlessly frustrating about using [GIM
 
 ## Installation
 
-While GIMP is not running, save the plugin to your plugins directory. This might vary depending on your platform, but on Windows 7/8 it might be C:/Users/[username]/.gimp-2.8/plug-ins.
+While GIMP is not running, save the plugin to your plugins directory. This might vary depending on your platform, but on Windows 7/8 it might be:
+- C:/Users/[username]/AppData/Roaming/GIMP/2.10/plug-ins
+- C:/Users/[username]/.gimp-2.8/plug-ins
 
 ## How does it work?
 
